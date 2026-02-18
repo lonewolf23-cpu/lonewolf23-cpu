@@ -96,7 +96,7 @@
 
 ## 📬 Recruiters Can Reach Me At
 <p align="center">
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:whitefang203Y@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
