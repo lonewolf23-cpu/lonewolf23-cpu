@@ -38,8 +38,9 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lonewolf23-cpu&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=lonewolf23-cpu&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=7" />
 </p>
+
 
 ---
 
