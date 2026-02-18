@@ -36,13 +36,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lonewolf23-cpu&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=7" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lonewolf23-cpu&show_icons=true&theme=tokyonight"/>
@@ -77,3 +70,34 @@
 
 ## 🐍 Contribution Snake Animation
 ![snake gif](https://github.com/lonewolf23-cpu/lonewolf23-cpu/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+---
+
+## 👀 Profile Visitors
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lonewolf23-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+## 💼 Open To Work
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen"/>
+<img src="https://img.shields.io/badge/Role-AI%20Developer-blue"/>
+<img src="https://img.shields.io/badge/Role-Software%20Engineer-blue"/>
+<img src="https://img.shields.io/badge/Interest-Generative%20AI-orange"/>
+<img src="https://img.shields.io/badge/Interest-Cloud%20Computing-orange"/>
+<img src="https://img.shields.io/badge/Healthcare-Medical%20Coding%20Trainee-red"/>
+</p>
+
+---
+
+## 📬 Recruiters Can Reach Me At
+<p align="center">
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
