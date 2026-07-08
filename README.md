@@ -36,29 +36,38 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=lonewolf23-cpu&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=lonewolf23-cpu&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
 <img height="180em"
-src="https://streak-stats.demolab.com?user=lonewolf23-cpu&theme=tokyonight"/>
+src="https://github-readme-streak-stats.herokuapp.com?user=lonewolf23-cpu&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf23-cpu&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf23-cpu&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lonewolf23-cpu&theme=tokyo-night"/>
+
+</p>
 ---
 
 # 📉 Contribution Graph
