@@ -36,10 +36,23 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lonewolf23-cpu&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf23-cpu&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=lonewolf23-cpu&show_icons=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="180em"
+src="https://streak-stats.demolab.com?user=lonewolf23-cpu&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf23-cpu&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
