@@ -36,17 +36,21 @@
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=lonewolf23-cpu&show_icons=true&theme=tokyonight&rank_icon=github"/>
+src="https://github-readme-stats.vercel.app/api?username=lonewolf23-cpu&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"
 src="https://streak-stats.demolab.com?user=lonewolf23-cpu&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 📈 Most Used Languages
 
 <p align="center">
 
@@ -57,9 +61,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf23-c
 
 ---
 
-### 📈 Contribution Activity Graph
+# 📉 Contribution Graph
+
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lonewolf23-cpu&theme=tokyo-night"/>
+
 </p>
 
 ---
